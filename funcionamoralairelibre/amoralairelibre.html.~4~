@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><title>(FUNCIÓN de "Amor al Aire Libre" 8 de Septiembre de 2012)</title>
+<meta name="author" content="(Claudio Vaucheret)"/>
+<link rel="stylesheet" href="file:///home/claudio/tmp/src/reveal.js-master/css/reveal.min.css">
+<link rel="stylesheet" href="file:///home/claudio/tmp/src/reveal.js-master/css/theme/moon.css" id="theme">
+
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+</head>
+<body>
+<div class="reveal">
+<div class="slides">
+<section>
+<h1>FUNCIÓN de "Amor al Aire Libre" 8 de Septiembre de 2012</h1>
+<h2>Claudio Vaucheret</h2>
+<h2><a href="mailto:vaucheret@gmail.com">vaucheret@gmail.com</a></h2>
+<h2></h2></section>
+
+
+<section id="sec-1" >
+
+<h2>Asu</h2>
+
+<div class="figure">
+<p><img src="DSC05231.JPG"  alt="DSC05231.JPG"/></p>
+</div>
+</section>
+<section id="sec-2" >
+
+<h2>Asu</h2>
+
+<div class="figure">
+<p><img src="DSC05237.JPG"  alt="DSC05237.JPG"/></p>
+</div>
+</section>
+</div>
+</div>
+<script src="file:///home/claudio/tmp/src/reveal.js-master/lib/js/head.min.js"></script>
+<script src="file:///home/claudio/tmp/src/reveal.js-master/js/reveal.min.js"></script>
+<script>
+
+        		// Full list of configuration options available here:
+        		// https://github.com/hakimel/reveal.js#configuration
+        		Reveal.initialize({
+        			controls: true,
+        			progress: true,
+        			history: false,
+        			center: true,
+        			rollingLinks: true,
+        			keyboard: true,
+        			overview: true,
+        			width: 1200, // slide width
+        			height: 800, // slide height
+        			margin: 0.10, // slide margin
+        			minScale: 0.50, // slide minimum scaling factor
+        			maxScale: 2.50, // slide maximum scaling factor
+
+
+        			theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+        			transition: Reveal.getQueryHash().transition || 'cube', // default/cube/page/concave/zoom/linear/fade/none
+        			transitionSpeed: 'default',
+
+        			// Optional libraries used to extend on reveal.js
+        			dependencies: [
+        				{ src: 'file:///home/claudio/tmp/src/reveal.js-master/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+        				{ src: 'file:///home/claudio/tmp/src/reveal.js-master/plugin/markdown/showdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+        				{ src: 'file:///home/claudio/tmp/src/reveal.js-master/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+        				{ src: 'file:///home/claudio/tmp/src/reveal.js-master/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+        				{ src: 'file:///home/claudio/tmp/src/reveal.js-master/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+        				{ src: 'file:///home/claudio/tmp/src/reveal.js-master/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
+        				// { src: 'file:///home/claudio/tmp/src/reveal.js-master/plugin/search/search.js', async: true, condition: function() { return !!document.body.classList; } }
+        				// { src: 'file:///home/claudio/tmp/src/reveal.js-master/plugin/remotes/remotes.js', async: true, condition: function() { return !!document.body.classList; } }
+        			]
+        		});
+</script>
+</body>
+</html>
