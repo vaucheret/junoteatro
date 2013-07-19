@@ -1,0 +1,101 @@
+#+Title: FUNCIÓN de "Amor al Aire Libre" 8 de Septiembre de 2012
+#+AUTHOR: Pasaje El Molino
+#+EMAIL: Plottier va al Teatro
+
+
+#+OPTIONS: reveal_center:t reveal_progress:t reveal_history:nil reveal_control:t
+#+OPTIONS: reveal_mathjax:t reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
+#+OPTIONS: reveal_width:1200 reveal_height:800
+#+OPTIONS: toc:nil
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2.5
+#+REVEAL_TRANS: cube
+#+REVEAL_THEME: moon
+#+REVEAL_HLEVEL: 2
+
+* Asu
+
+[[file:funcionamoralairelibre/DSC05231.JPG]]
+
+* Asu
+
+[[file:funcionamoralairelibre/DSC05237.JPG]]
+
+
+* Marianela
+
+[[file:funcionamoralairelibre/DSC05240.JPG]]
+
+* Marianela
+
+[[file:funcionamoralairelibre/DSC05243.JPG]]
+
+
+* Asu y Guillermina
+
+[[file:funcionamoralairelibre/DSC05246.JPG]]
+
+
+* Claudio
+
+[[file:funcionamoralairelibre/DSC05247.JPG]]
+
+
+
+* Claudio
+
+[[file:funcionamoralairelibre/DSC05248.JPG]]
+
+
+
+* Marianela
+
+[[file:funcionamoralairelibre/DSC05249.JPG]]
+
+
+* Sandra, Javier y Lucía
+
+[[file:funcionamoralairelibre/DSC05250.JPG]]
+
+
+
+* Fernando en la consola
+
+[[file:funcionamoralairelibre/DSC05251.JPG]]
+
+
+* Daniel y Guillermina
+
+[[file:funcionamoralairelibre/DSC05252.JPG]]
+
+
+
+* Nelly y Cay
+
+[[file:funcionamoralairelibre/DSC05255.JPG]]
+
+
+* Junitos y Programas
+
+[[file:funcionamoralairelibre/DSC05265.JPG]]
+
+
+* Silvana y Carol
+
+[[file:funcionamoralairelibre/DSC05272.JPG]]
+
+
+* Tercer Acto
+
+[[file:funcionamoralairelibre/DSC05280.JPG]]
+
+
+* Tercer Acto
+
+[[file:funcionamoralairelibre/DSC05285.JPG]]
+
+
+* Tercer Acto
+
+[[file:funcionamoralairelibre/DSC05289.JPG]]
