@@ -5,7 +5,7 @@
   <link href="http://www.junoteatro.com.ar"/>
   <updated>2013-07-16T19:33:26Z</updated>
   <id>http://www.junoteatro.com.arindex.xml</id>
-  <entry><title type="html">Nueva página de Juno Teatro</title><author><name>nil</name></author><link href="http://www.junoteatro.com.ar/noticias/2013/07/20_nueva-pagina-de-juno-teatro.html"/><updated>2013-07-20T23:51:00Z</updated><published>2013-07-20T23:51:00Z</published><id>noticias/2013/07/20_nueva-pagina-de-juno-teatro.html</id><content type="html">&lt;p&gt;
+  <entry><title type="html">Nueva página de Juno Teatro</title><author><name>nil</name></author><link href="http://www.junoteatro.com.ar/noticias/2013/07/20_nueva-pagina-de-juno-teatro.html"/><updated>2013-07-20T23:51:00Z</updated><published>2013-07-20T23:51:00Z</published><id>noticias/2013/07/20_nueva-pagina-de-juno-teatro.html</id><category scheme="/tags/pagina.html" term="pagina" label="pagina"/><content type="html">&lt;p&gt;
 Hemos renovado la p&#225;gina de Juno teatro d&#225;ndole un nuevo estilo
 moderno con bootstrap. La programaci&#243;n la ha realizado Claudio con su editor &lt;a href="http://www.gnu.org/software/emacs/"&gt;Emacs&lt;/a&gt;
 versi&#243;n 24.3.1, el paquete &lt;a href="http://orgmode.org/"&gt;Orgmode&lt;/a&gt; 8.0.3 y &lt;a href="https://github.com/renard/o-blog"&gt;o-blog&lt;/a&gt;. 
