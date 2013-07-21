@@ -5,7 +5,12 @@
   <link href="http://www.junoteatro.com.ar"/>
   <updated>2013-07-16T19:33:26Z</updated>
   <id>http://www.junoteatro.com.arindex.xml</id>
-  <entry><title type="html">Continúa este Sabado 27</title><author><name>nil</name></author><link href="http://www.junoteatro.com.ar/noticias/2012/10/24_continua-este-sabado-27.html"/><updated>2012-10-24T11:15:00Z</updated><published>2012-10-24T11:15:00Z</published><id>noticias/2012/10/24_continua-este-sabado-27.html</id><category scheme="/tags/musica.html" term="musica" label="musica"/><content type="html">&lt;p&gt;
+  <entry><title type="html">Nueva página de Juno Teatro</title><author><name>nil</name></author><link href="http://www.junoteatro.com.ar/noticias/2013/07/20_nueva-pagina-de-juno-teatro.html"/><updated>2013-07-20T23:51:00Z</updated><published>2013-07-20T23:51:00Z</published><id>noticias/2013/07/20_nueva-pagina-de-juno-teatro.html</id><content type="html">&lt;p&gt;
+Hemos renovado la p&#225;gina de Juno teatro d&#225;ndole un nuevo estilo
+moderno con bootstrap. La programaci&#243;n la ha realizado Claudio con su editor &lt;a href="http://www.gnu.org/software/emacs/"&gt;Emacs&lt;/a&gt;
+versi&#243;n 24.3.1, el paquete &lt;a href="http://orgmode.org/"&gt;Orgmode&lt;/a&gt; 8.0.3 y &lt;a href="https://github.com/renard/o-blog"&gt;o-blog&lt;/a&gt;. 
+&lt;/p&gt;
+</content></entry><entry><title type="html">Continúa este Sabado 27</title><author><name>nil</name></author><link href="http://www.junoteatro.com.ar/noticias/2012/10/24_continua-este-sabado-27.html"/><updated>2012-10-24T11:15:00Z</updated><published>2012-10-24T11:15:00Z</published><id>noticias/2012/10/24_continua-este-sabado-27.html</id><category scheme="/tags/musica.html" term="musica" label="musica"/><content type="html">&lt;p&gt;
 Recuerden que &#233;ste s&#225;bado el ciclo contin&#250;a tambi&#233;n con un recital
  esta vez a cargo del Grupo MATIAS RIVAS de Plottier. Los esperamos a
  las 21hs.
@@ -484,21 +489,5 @@ Y fotos de la infaltable reuni&#243;n postfunci&#243;n en la casa de Nelly:
 &lt;p&gt;
 &lt;a href="../../../noticias/2012/09/25_el-pais-en-el-pais-y-en-plottier/DSC05443.JPG"&gt;&lt;img src="../../../noticias/2012/09/25_el-pais-en-el-pais-y-en-plottier/DSC05443.JPG"  alt="DSC05443.JPG"/&gt;&lt;/a&gt;
 &lt;/p&gt;
-</content></entry><entry><title type="html">Silvana y Sandra en Radio Alternativa!!</title><author><name>nil</name></author><link href="http://www.junoteatro.com.ar/noticias/2012/09/19_silvana-y-sandra-en-radio-alternativa.html"/><updated>2012-09-19T10:08:00Z</updated><published>2012-09-19T10:08:00Z</published><id>noticias/2012/09/19_silvana-y-sandra-en-radio-alternativa.html</id><category scheme="/tags/prensa.html" term="prensa" label="prensa"/><content type="html">&lt;p&gt;
-El s&#225;bado 15 comenz&#243; muy temprano para Juno Cultural mientras la
-propaladora sonaba por los barrios de Plottier, Sandra y Silvana
-fueron a difundir el ciclo en las radios. 
-&lt;/p&gt;
-
-&lt;p&gt;
-&lt;a href="../../../noticias/2012/09/19_silvana-y-sandra-en-radio-alternativa/TeatroJuno.JPG"&gt;&lt;img src="../../../noticias/2012/09/19_silvana-y-sandra-en-radio-alternativa/TeatroJuno.JPG"  alt="TeatroJuno.JPG"/&gt;&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-siguiendo este link se puede escuchar la entrevista en Radio Alternativa.
-&lt;/p&gt;
-
-&lt;p&gt;
-&lt;a href="http://www.noticiasdeplottier.com.ar/index.php/component/k2/item/2170-el-grupo-de-teatro-juno-sigue-presentando-obras-en-plottier.html"&gt;http://www.noticiasdeplottier.com.ar/index.php/component/k2/item/2170-el-grupo-de-teatro-juno-sigue-presentando-obras-en-plottier.html&lt;/a&gt;&lt;/p&gt;
 </content></entry>
 </feed>
