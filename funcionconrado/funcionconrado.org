@@ -1,0 +1,53 @@
+#+Title: funciones en la conrado 6 13 y 20 de Agosto
+#+AUTHOR: Neuquen
+#+EMAIL: Conrado Villegas
+
+
+#+OPTIONS: reveal_center:t reveal_progress:t reveal_history:nil reveal_control:t
+#+OPTIONS: reveal_mathjax:t reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
+#+OPTIONS: reveal_width:1200 reveal_height:800
+#+OPTIONS: toc:nil
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2.5
+#+REVEAL_TRANS: cube
+#+REVEAL_THEME: moon
+#+REVEAL_HLEVEL: 2
+
+* Al lado del cartel
+
+[[file:funcionconrado/DSCN1440.JPG]]
+
+* Al lado del cartel
+
+[[file:funcionconrado/DSCN1441.JPG]]
+
+
+* Al lado del cartel
+
+[[file:funcionconrado/DSCN1442.JPG]]
+
+
+* Al lado del cartel
+
+[[file:funcionconrado/DSCN1443.JPG]]
+
+
+* Al lado del cartel
+
+[[file:funcionconrado/DSCN1444.JPG]]
+
+
+* Al lado del cartel
+
+[[file:funcionconrado/DSCN1445.JPG]]
+
+
+* Al lado del cartel
+
+[[file:funcionconrado/DSCN1446.JPG]]
+
+* Al lado del cartel
+
+[[file:funcionconrado/DSCN1446.JPG]]
+
