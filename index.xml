@@ -5,7 +5,7 @@
   <link href="http://www.junoteatro.com.ar"/>
   <updated>2013-07-16T19:33:26Z</updated>
   <id>http://www.junoteatro.com.arindex.xml</id>
-  <entry><title type="html">Estreno de "Antoine y Carmelinda" (diario La Mañana)</title><author><name>nil</name></author><link href="http://www.junoteatro.com.ar/noticias/2014/10/10_estreno-de-antoine-y-carmelinda-diario-la-manana.html"/><updated>2014-10-10T16:16:00Z</updated><published>2014-10-10T16:16:00Z</published><id>noticias/2014/10/10_estreno-de-antoine-y-carmelinda-diario-la-manana.html</id><content type="html">&lt;p&gt;
+  <entry><title type="html">Estreno de "Antoine y Carmelinda" (diario La Mañana)</title><author><name>nil</name></author><link href="http://www.junoteatro.com.ar/noticias/2014/10/10_estreno-de-antoine-y-carmelinda-diario-la-manana.html"/><updated>2014-10-10T16:16:00Z</updated><published>2014-10-10T16:16:00Z</published><id>noticias/2014/10/10_estreno-de-antoine-y-carmelinda-diario-la-manana.html</id><category scheme="/tags/juno.html" term="juno" label="juno"/><category scheme="/tags/prensa.html" term="prensa" label="prensa"/><category scheme="/tags/zaguan.html" term="Zaguán" label="Zaguán"/><content type="html">&lt;p&gt;
 Nota en el suplemento "Al Fin Viernes" del 10 de Octubre de 2014 con
 el estreno de "Antoine y Carmelinda"
 &lt;/p&gt;
@@ -33,7 +33,7 @@ pueden leer la nota haciendo click aqu&#237;:
 
 
 &lt;/div&gt;&lt;/div&gt;
-</content></entry><entry><title type="html">Estreno de "Antoine y Carmelinda" (diario Rio Negro)</title><author><name>nil</name></author><link href="http://www.junoteatro.com.ar/noticias/2014/10/08_estreno-de-antoine-y-carmelinda-diario-rio-negro.html"/><updated>2014-10-08T16:12:00Z</updated><published>2014-10-08T16:12:00Z</published><id>noticias/2014/10/08_estreno-de-antoine-y-carmelinda-diario-rio-negro.html</id><content type="html">&lt;p&gt;
+</content></entry><entry><title type="html">Estreno de "Antoine y Carmelinda" (diario Rio Negro)</title><author><name>nil</name></author><link href="http://www.junoteatro.com.ar/noticias/2014/10/08_estreno-de-antoine-y-carmelinda-diario-rio-negro.html"/><updated>2014-10-08T16:12:00Z</updated><published>2014-10-08T16:12:00Z</published><id>noticias/2014/10/08_estreno-de-antoine-y-carmelinda-diario-rio-negro.html</id><category scheme="/tags/juno.html" term="juno" label="juno"/><category scheme="/tags/prensa.html" term="prensa" label="prensa"/><category scheme="/tags/zaguan.html" term="Zaguán" label="Zaguán"/><content type="html">&lt;p&gt;
 El 10 de Octubre de 2014 a las 22hs en el Teatro el Zagu&#225;n se
 estrenar&#225; la obra "Antoine y Carmelinda", una producci&#243;n de JUNO TEATRO
 &lt;/p&gt;
